@@ -20,7 +20,6 @@ With experience as a Senior Data Engineer and a strong foundation in Python, PyS
 - Representation learning, LLM prompting, and visual data processing.
 
 ### 💬 Ask Me About:
-- How to make your Python scripts run 95% faster (yep, done it).
 - Data engineering for ML workflows.
 - How to survive both hackathons and AI model evaluations.
 
