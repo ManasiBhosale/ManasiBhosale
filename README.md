@@ -55,6 +55,6 @@ With experience as a Senior Data Engineer and a strong foundation in Python, PyS
 
 ---
 
-⚡ Fun fact: I once built a plant ID app that placed top 50 out of 600+ entries—using deep learning and a whole lot of curiosity 🌿
+⚡ Fun fact: I once built a plant ID app that placed Top 50 out of 600+ entries in the Natarajan Education Society (NES) Competition—using deep learning and a whole lot of curiosity 🌿
 
 Thanks for stopping by!
