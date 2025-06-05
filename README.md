@@ -41,7 +41,9 @@ With experience as a Senior Data Engineer and a strong foundation in Python, PyS
 </a>
 </p>
 
-
+<p> <strong>✨ How You Can Build a Movie Recommender From Scratch (No Fancy ML Needed)</strong><br> Curious how a movie recommender actually works?
+This blog breaks down the entire process—from handling data to finding similar movies—using simple techniques anyone can understand. No complex ML, just clear steps to build your own.
+ <br><br> <a href="https://medium.com/@manasibhosale1103/how-you-can-build-a-movie-recommender-from-scratch-no-fancy-ml-needed-dcb0ccaf1159" target="_blank"> <img src="https://img.shields.io/badge/Read%20on-Medium-black?style=for-the-badge&logo=medium" alt="Read on Medium" /> </a> </p>
  
 
 ### 📫 Let's connect:
