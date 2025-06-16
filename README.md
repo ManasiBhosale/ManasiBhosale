@@ -35,7 +35,7 @@ With experience as a Senior Data Engineer and a strong foundation in Python, PyS
 
 <p>
 <strong>🎧 Music Genre Classification</strong><br>
-<em>A machine learning project achieving 87% accuracy, classifying songs by genre based on audio features.</em><br><br>
+<em>A machine learning project achieving 92.99% accuracy, classifying songs by genre based on audio features.</em><br><br>
 <a href="https://www.kaggle.com/code/manasibhosale/music-genre-classification" target="_blank">
   <img src="https://github.com/ManasiBhosale/ManasiBhosale/blob/0a7851d353cedc6cfb19c1e37e2e8b51716a9d6b/assets/musical-notes.png?raw=true" width="100" alt="Music Icon" />
 </a>
