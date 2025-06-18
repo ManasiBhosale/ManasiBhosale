@@ -49,7 +49,7 @@ This blog breaks down the entire process—from handling data to finding similar
 
 
 
-<table>
+<table >
   <tr>
     <td valign="top"><h3>📊 GitHub Stats</h3>
       <img src="https://github-readme-stats.vercel.app/api?username=ManasiBhosale&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false" /><br/>
@@ -61,6 +61,34 @@ This blog breaks down the entire process—from handling data to finding similar
     </td>
   </tr>
 </table>   
+
+<br>
+<br>
+<br>
+
+<table style="border: none;">
+  <tr>
+    <td valign="top" width="50%">
+      <h3>🔥 GitHub Streak & Languages</h3>
+      <img src="https://nirzak-streak-stats.vercel.app/?user=ManasiBhosale&theme=default_repocard&hide_border=false" /><br/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManasiBhosale&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+    </td>
+    <td valign="top" width="50%">
+      <h3>📊 Overall GitHub Stats</h3>
+      <img src="https://github-readme-stats.vercel.app/api?username=ManasiBhosale&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <h3>🔝 Top Contributed Repos</h3>
+      <img src="https://github-contributor-stats.vercel.app/api?username=ManasiBhosale&limit=5&theme=default_repocard&combine_all_yearly_contributions=true" />
+    </td>
+    <td valign="top" width="50%">
+      <h3>🏆 GitHub Trophies</h3>
+      <img src="https://github-profile-trophy.vercel.app/?username=ManasiBhosale&row=3&column=3&theme=default_repocard&no-frame=false&no-bg=false&margin-w=4" />
+    </td>
+  </tr>
+</table>
 
 
 # 📊 GitHub Stats:
