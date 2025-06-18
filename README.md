@@ -6,7 +6,7 @@
 
 A curious coder, data and machine learning enthusiast, and lifelong learner who loves turning complex problems into smart, scalable solutions. I recently earned my MSc in Advanced Computer Science from the University of Manchester (2:1 with Distinction in Data Engineering and Text Mining), and I’m currently helping train the next generation of AI at Outlier.
 
-With experience as a Senior Data Engineer and a strong foundation in Python, PySpark, and SQL, I’ve built everything from movie recommender systems and stock analysis dashboards to deep learning-powered plant classifiers. My work blends technical depth with creativity—whether it’s optimising pipelines or crafting AI training tasks that push large language models to think harder.
+With experience as a Data Engineer and a strong foundation in Python, PySpark, and SQL, I’ve built everything from movie recommender systems and stock analysis dashboards to deep learning-powered plant classifiers. My work blends technical depth with creativity—whether it’s optimising pipelines or crafting AI training tasks that push large language models to think harder.
 
 ---
 
