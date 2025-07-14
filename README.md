@@ -54,7 +54,7 @@ This blog breaks down the entire process—from handling data to finding similar
     <td valign="top">
       <img src="https://github-readme-stats.vercel.app/api?username=ManasiBhosale&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false" /><br/>
       <img src="https://nirzak-streak-stats.vercel.app/?user=ManasiBhosale&theme=default_repocard&hide_border=false" /><br/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManasiBhosale&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManasiBhosale&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=True&layout=compact" />
     </td>
     <td valign="top">
       <img src="https://github-contributor-stats.vercel.app/api?username=ManasiBhosale&limit=5&theme=default_repocard&combine_all_yearly_contributions=true" />
