@@ -71,9 +71,8 @@ This blog breaks down the entire process—from handling data to finding similar
 
 ### 💻 Tech Stack:
 
-
-
 [![My Skills](https://skillicons.dev/icons?i=cpp,php,python,html,aws,azure,mysql,postgres,mongodb,flask,tensorflow,pytorch,opencv,anaconda,git,gitlab,bitbucket,vscode,py,pycharm&theme=light)](https://skillicons.dev)
+
 
 
 ### 📫 Let's connect:
