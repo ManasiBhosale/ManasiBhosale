@@ -6,14 +6,6 @@
 Background GIF from [Pinterest](https://uk.pinterest.com/pin/1146166174271946288/)
 </div>
 
-<div align="center" style="width: 100%;">
-  <a href="https://github.com/ManasiBhosale">
-    <img src="assets/Untitled%20design.gif" alt="Hi, I'm Manasi!" style="width: 100%; height: auto;" />
-  </a>  
-  <p>Background GIF from <a href="https://uk.pinterest.com/pin/1146166174271946288/">Pinterest</a></p>
-</div>
-
-
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=ManasiBhosale&style=flat-square&color=blue" alt="Profile views" />
 </p>
