@@ -63,6 +63,45 @@ This blog breaks down the entire process—from handling data to finding similar
 </table>
 
 
+<!-- GitHub Stats Section -->
+<h3>📊 GitHub Stats</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ManasiBhosale&show_icons=true&theme=default_repocard&hide_border=false&count_private=true&include_all_commits=true" />
+</p>
+
+<!-- GitHub Streak Section -->
+<h3>🔥 GitHub Streak</h3>
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=ManasiBhosale&theme=default_repocard&hide_border=false&include_all_commits=true" />
+</p>
+
+<!-- Top Languages Section -->
+<h3>💻 Top Languages</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManasiBhosale&langs_count=10&layout=compact&theme=default_repocard&hide_border=false&count_private=true&include_all_commits=true" />
+</p>
+
+<!-- GitHub Stats and Streak side-by-side -->
+<table>
+  <tr>
+    <td valign="top">
+      <h3>📊 GitHub Stats</h3>
+      <img src="https://github-readme-stats.vercel.app/api?username=ManasiBhosale&show_icons=true&theme=default_repocard&hide_border=false&count_private=true&include_all_commits=true" />
+    </td>
+    <td valign="top">
+      <h3>🔥 GitHub Streak</h3>
+      <img src="https://nirzak-streak-stats.vercel.app/?user=ManasiBhosale&theme=default_repocard&hide_border=false&include_all_commits=true" />
+    </td>
+  </tr>
+</table>
+
+<!-- Top Languages centered below -->
+<h3 align="center">💻 Top Languages</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManasiBhosale&langs_count=10&layout=compact&theme=default_repocard&hide_border=false&count_private=true&include_all_commits=true" />
+</p>
+
+
 
 
 ### 💻 Tech Stack:
