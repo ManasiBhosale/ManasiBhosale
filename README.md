@@ -1,12 +1,5 @@
 ## Hi there 👋 I'm Manasi Bhosale!
 
-<!---
-<div align="center">
-
-[![Hi, I'm Manasi!](assets/We%20Heart%20It.gif)](https://github.com/ManasiBhosale)  
-Background GIF from [Pinterest](https://uk.pinterest.com/pin/1146166174271946288/)
-</div>
--->
 <div align="center">
 
 [![Hi, I'm Manasi!](assets/Untitled%20design(2).gif)](https://github.com/ManasiBhosale)  
