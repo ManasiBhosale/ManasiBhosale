@@ -59,7 +59,7 @@ This blog breaks down the entire process—from handling data to finding similar
 <table align="center">
   <tr>
     <td align="center" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=ManasiBhosale&show_icons=true&theme=default_repocard&hide_border=false&count_private=true&include_all_commits=true" />
+      <img src="https://github-readme-stats.vercel.app/api?username=ManasiBhosale&show_icons=true&theme=default&hide_border=false&count_private=true" />
     </td>
     <td align="center" valign="top">
       <img src="https://nirzak-streak-stats.vercel.app/?user=ManasiBhosale&theme=default_repocard&hide_border=false&include_all_commits=true" />
