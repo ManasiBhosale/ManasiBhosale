@@ -22,12 +22,8 @@ With experience as a Data Engineer and a strong foundation in Python, PySpark, a
 - Keeping my Python game sharp through fun side projects.
 
 ### 🌱 Always Learning:
-- Power BI (just earned some shiny Microsoft badges!)
+- Power BI, Big Data, Hadoop, Apache Spark, Databricks 
 - Representation learning, LLM prompting, and visual data processing.
-
-### 💬 Ask Me About:
-- Data engineering for ML workflows.
-- How to survive both hackathons and AI model evaluations.
 
 
 
