@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Manasi Bhosale!
+## Hi there 👋 I'm Manasi!
 
 <div align="center">
 
